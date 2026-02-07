@@ -1,0 +1,23 @@
+.store-name {
+    color: black;
+    background-color: fuchsia;
+    padding: 8px;
+    margin-bottom: 0px;
+}
+
+.nav-button {
+    background-color:orchid;
+    color: black;
+    margin: 8px;
+}
+
+.nav-section {
+    margin: 2px;
+}
+
+.nav-link {
+    color: black
+}
+
+
+

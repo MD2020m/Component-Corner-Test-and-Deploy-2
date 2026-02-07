@@ -1,0 +1,19 @@
+.footer {
+    background-color: fuchsia;
+}
+
+.footer-name {
+    color: black;
+    font-size: 30px;
+
+}
+
+.footer-info {
+    color: black;
+    font-size: 16px;
+}
+
+.footer-content {
+    color: black;
+    font-size: 16px;
+}
